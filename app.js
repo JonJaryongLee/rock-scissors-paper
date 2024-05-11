@@ -2,17 +2,17 @@ const data = [
   {
     id: 3237,
     name: "rock",
-    imgSrc: "/imgs/rock.png",
+    imgSrc: "./imgs/rock.png",
   },
   {
     id: 5426,
     name: "scissors",
-    imgSrc: "/imgs/scissors.png",
+    imgSrc: "./imgs/scissors.png",
   },
   {
     id: 9987,
     name: "paper",
-    imgSrc: "imgs/paper.png",
+    imgSrc: "./imgs/paper.png",
   },
 ];
 
